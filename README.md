@@ -7,6 +7,7 @@
 - `ObservableObject`를 `conform`하는 객체는 선언할때 `class`로  선언
 - `SwiftUI` 프레임워크 안에 `Combine`이 `import` 되어있음
 
-장점: UIKit에서 Data pass 구현 시 복잡했던 부분을 많이 
+#### 장점 
+- UIKit에서 Data pass 구현 시 복잡했던 부분을 상쇄
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/52398126/143151305-6d68e7fb-87b1-4726-bbed-52f6fd994576.gif)
